@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/nitin.muteja/.dotnet/store/|arch|/|tfm|",
-      "/Users/nitin.muteja/.nuget/packages"
-    ]
-  }
-}
